@@ -1,0 +1,20 @@
+# Odin build output
+*.bin
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.pdb
+*.dSYM/
+
+# Editor and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Claude Code local state
+.claude/settings.local.json
